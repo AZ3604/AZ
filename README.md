@@ -1,8 +1,5 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 
-
-<title>AZ3604</title>
-
 <style>
 .demo｛color:forest green;｝
 <Link Rel="SHORTCUT ICON" href="./AZ.ICO.ico">
@@ -61,16 +58,7 @@ background-attachment: fixed;"
     filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
 }
 </style>
-
-
-</head>
-
-         
-           
-            
-                
-              
-  
+	</head>
   <div class="jumbotron">
     <div class="container">
       <div class="splash">
@@ -109,16 +97,12 @@ background-attachment: fixed;"
 
 <font size="5"><a href="https://www.microsoft.com/"target="_blank">Microsoft</a></font>
 
-
 <footer>
  <p class="demo">2021 AZ©版权所有</p>
 
-
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-
-
