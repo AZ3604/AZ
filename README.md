@@ -1,3 +1,6 @@
+<！DOCTYPE html>
+<html>
+<head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 
 
@@ -120,5 +123,5 @@ background-attachment: fixed;"
 <br/>
 <br/>
 <br/>
-
-
+</body>
+</html>
