@@ -3,9 +3,6 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 
-
-<title>AZ3604</title>
-
 <style>
 .demo｛color:forest green;｝
 <Link Rel="SHORTCUT ICON" href="./AZ.ICO.ico">
