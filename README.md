@@ -96,7 +96,7 @@ background-attachment: fixed;"
 
 <p>友情链接</p>
 
-<font size="5"><a href="https://www.bilibili.com/"target="_blank">bilibili</a></font>
+<font size="5"><a href="https://www.bilibili.com/"target="_blank"><a>bilibili</a></font>
 
 <font size="5"><a href="https://github.com/"target="_blank">GitHub</a></font>
 
